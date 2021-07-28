@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
+    guid: d18e7a29d4fd422489dcfedb6e5a142e
+  - enabled: 1
+    path: Assets/Scenes/Hikaye.unity
+    guid: e31a132a07b3c3c4490da04867bd1984
+  - enabled: 1
+    path: Assets/Scenes/Koy.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fight/Skeleton.unity
+    guid: b6ebf3cfc158aa049a550e237b78267d
+  - enabled: 1
+    path: Assets/Scenes/Fight/Aw.unity
+    guid: 8c222d00be8d5f040849afd9e43df600
+  - enabled: 1
+    path: Assets/Scenes/Fight/Ben10.unity
+    guid: 76dcf02c600a37944ad8bcfa66852018
+  - enabled: 1
+    path: Assets/Scenes/Fight/Warrok.unity
+    guid: 5a26d708213108a49827e458f31c65e2
+  m_configObjects: {}
